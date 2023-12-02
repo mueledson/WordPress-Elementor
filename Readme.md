@@ -12,7 +12,5 @@
 
 * Depois para usar o Elementor clique em páginas: Adicionar Páginas agora é só explorar vendo o primeiro video
 
-*
-
 > Primeiro Vídeo: https://www.youtube.com/watch?v=VLe0IjLcEtE
 > Segundo Vídeo: https://www.youtube.com/watch?v=taCY5ahkxsw 
